@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : KUSHI NAGAR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004                                          0.0  -100                            224.9   -40    4.7   -99                                               
+
+2005                                          0.0  -100                23.5   -86  165.8   -55   75.5   -79   18.5   -92    0.0  -100    0.0  -100    0.0  -100
+
+2006   0.0  -100    0.0  -100    0.0  -100    0.0  -100    0.0  -100  166.5    -4   85.5   -77   90.5   -74                 0.0  -100    0.0  -100    0.0  -100
+
+2007   0.0  -100    0.0  -100   17.0    53    0.0  -100    0.0  -100   24.0   -86  202.2   -46   97.5   -73   67.0   -72                                  
+
+2008                                                                  146.5   -15  204.8   -45   13.0   -96    5.5   -98                 0.0  -100        
+
+===============================================================================================================================================================

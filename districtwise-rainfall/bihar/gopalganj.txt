@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : GOPALGANJ
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                   84.8   -43  670.0   120  127.2   -54  112.9   -47    0.0  -100                 0.0  -100
+
+2008                                                                  246.1    66                                                                         
+
+2009                                                                               179.5        306.7         67.7         82.1                       1.0   -81
+
+2010   0.0  -100    0.0  -100    0.0  -100    0.0  -100                64.4   -57  259.8   -15  253.4    -8  224.6     5   81.0    38    0.0  -100    0.0  -100
+
+2011   3.0   -80    0.0  -100    3.1   -56   12.2    -2   37.9    20  174.4    12  293.2    -5  289.9    -5   98.2   -55    0.0  -100    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : BUXAR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                   27.0   -75  364.0    29  210.9   -13  188.3    -3    2.0   -97                     
+
+2008                                                                  371.8   247  360.3    27  312.7    29   25.3   -87   43.8   -31                     
+
+2009                2.2   -79                                          12.8   -88  187.6   -34  375.6    54  131.6   -32  100.4    59                     
+
+2010                                                                   25.4   -76   93.4   -67  297.6    22  127.6   -34   58.4    -8                 0.0  -100
+
+2011           0    0.1   -99    1.6   -76    2.4   -35   20.9    19  403.6   264   81.2   -72  197.4   -25  155.6   -22    0.0  -100    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

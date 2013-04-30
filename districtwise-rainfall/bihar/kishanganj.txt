@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : KISHANGANJ
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007   0.0  -100    0.0  -100    0.0  -100    0.0  -100               341.0   -14  106.0   -81   57.0   -87                                               
+
+2008                                                                               583.8     4                                                            
+
+2009                                                                                84.2        289.5          1.6                                        
+
+2010   0.0  -100    0.0  -100    0.0  -100    0.0  -100               658.0    66  762.6    35  418.2    -6  373.0     1   41.4   -53   45.4   909    0.0  -100
+
+2011   3.0   -71    2.1   -74   17.0    -3  100.2    94  132.7   -15  207.5   -44  902.0    56  372.9   -20  584.2    69    0.0  -100   39.0   474    2.0   -57
+
+===============================================================================================================================================================

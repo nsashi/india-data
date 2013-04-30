@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : CHHIMTUIPUI
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007   0.0  -100    0.0  -100    0.1  -100  241.0    33    0.0  -100  791.8    89  473.0    52    0.0  -100  851.3   187  189.0    -4    0.0  -100    0.0  -100
+
+2008                0.0  -100                 0.0  -100    0.0  -100                                         337.5    14                                  
+
+2009                0.0  -100   20.7   -71   79.0   -56                                                                                                   
+
+2010                                                                                                                                                  0.0  -100
+
+2011           0            0            0            0            0            0            0            0            0            0            0            0
+
+===============================================================================================================================================================

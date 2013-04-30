@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : TUENSANG
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007   0.1  -100    0.0  -100   10.2   -85   43.0   -76  105.2   -53  111.4   -68  257.8   -42  152.6   -57  167.9   -31                45.6    10   30.0   180
+
+2008  33.4    41    3.8   -86    5.0   -92   21.0   -88   26.2   -88  197.0   -44  138.2   -69  134.9   -62   48.9   -80   91.4   -25    0.0  -100    2.3   -79
+
+2009   0.0  -100    3.5   -87   13.7   -79   29.7   -83   64.2   -72  115.4   -67  184.5   -58  207.3   -41  128.9   -47   74.2   -39    0.0  -100    0.0  -100
+
+2010                                                                                                                                                      
+
+2011           0            0            0            0            0            0            0            0            0            0            0    0.0  -100
+
+===============================================================================================================================================================

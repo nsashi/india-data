@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : PITHORAGARH
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007  11.9   -78                                                                                                                                          
+
+2008                                                                   26.0   -90  377.4   -24  242.9   -50  136.9   -45    6.8   -90    5.2   -54    0.0  -100
+
+2009   2.5   -95                                           2.5   -97   34.3   -87  445.1   -11  555.7    14  282.6    13  144.0   116   13.8    23    1.7   -90
+
+2010   5.9   -89   64.9    18    3.4   -95   16.5   -62   70.6   -13   72.1   -72  514.0     3  416.0   -15  485.0    94   12.3   -82    1.8   -84   16.0    -9
+
+2011  35.7   -29   71.9    25   38.9   -41   27.5   -40  125.6    34  257.3   -14  507.9    -9  478.2   -11  193.9   -34   15.0   -77   13.1     5    0.5   -97
+
+===============================================================================================================================================================

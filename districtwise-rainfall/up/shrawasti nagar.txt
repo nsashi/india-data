@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : SHRAWASTI NAGAR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004  22.2    -9    0.0  -100                 0.0  -100   74.2   167  208.7    44  559.4    66  115.3   -60  173.5   -20   66.6     6    0.0  -100    0.0  -100
+
+2005  41.4    70   11.1   -26    0.0  -100                            101.0   -30  438.4    30  208.6   -27  274.8    27    0.0  -100                     
+
+2006                                                                  250.2    73  336.6        334.6    17   89.8   -58    0.0  -100                     
+
+2007                                                                  103.0   -29  428.6    27  387.4    35  193.2   -11    0.0  -100                     
+
+2008                                                                  123.0   -15  396.8    18  205.0   -28  186.9   -14  116.8    86                 0.0  -100
+
+===============================================================================================================================================================

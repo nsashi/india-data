@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : MADHUBANI
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                  110.6   -40  486.4    46  521.1    87  401.6   113   43.1   -31                     
+
+2008                                                                   66.9   -64  361.2     8  219.3   -21  103.6   -45   71.9    15                     
+
+2009                                                                   47.9   -74  415.5    25  296.4     7   64.9   -66   43.5   -31                     
+
+2010   0.0  -100    0.0  -100    0.0  -100    0.0  -100                68.4   -63  173.7   -48  159.8   -43   95.0   -50   20.9   -67                     
+
+2011           0   11.9    25    3.4   -63   43.8    42  243.5   207  132.3   -29  251.7   -33  159.8   -48  249.2    30    7.9   -90    1.7   -70    0.0  -100
+
+===============================================================================================================================================================

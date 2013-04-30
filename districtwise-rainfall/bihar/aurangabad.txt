@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : AURANGABAD
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                  115.0    -8  521.9    74  445.8    57  261.8    27   13.2   -76                     
+
+2008                                                                  223.3    79  312.7     4  251.3   -11   70.8   -66    0.0  -100                     
+
+2009                                                                   20.6   -83  212.8   -29  457.2    61  285.5    39   56.5     4                     
+
+2010   0.0  -100    0.0  -100    0.0  -100    0.0  -100    0.0  -100   45.2   -64  199.5   -34  152.6   -46  124.3   -40   48.0   -12    0.0  -100    0.0  -100
+
+2011  10.0   -45    3.5   -69    0.0  -100   12.5   119    7.5   -48  175.7    44  141.8   -51  413.0    63  236.3    22    0.7   -98    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

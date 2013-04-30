@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : SANTHAL PARGANAS
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004   3.0   -81    0.0  -100    0.9   -95   71.2   176  107.2    58  416.8    96  236.6   -32  277.7   -16  440.0    67  399.2   226                     
+
+2005                                                       0.0  -100  160.3   -24  290.9   -17  107.8   -68  141.6   -46   11.4   -91                 0.0  -100
+
+2006                                                                   48.6   -77  670.8    92  190.8   -43  699.6   166    5.6   -95                     
+
+2007                             7.3   -60   23.0   -11   50.0   -27  154.9   -27  597.2    71  308.1    -7  374.1    42   55.8   -54    0.0  -100        
+
+2008  33.6   114    0.0  -100                                          85.9   -60  416.8    19  256.1   -23  205.1   -22   28.4   -77                     
+
+===============================================================================================================================================================

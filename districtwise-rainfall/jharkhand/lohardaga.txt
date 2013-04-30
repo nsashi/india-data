@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : LOHARDAGA
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007               88.8   230                                         159.6   -12  323.3     6  388.4    37  273.3    26    5.2   -92                     
+
+2008                                                                               442.5    45                                                            
+
+2009                                                                               111.9        167.4        295.6         86.6                           
+
+2010                                                                  104.7   -42  147.9   -52  228.5   -19  116.6   -46   52.4   -17                54.4   677
+
+2011           0            0            0            0            0  484.5   160  155.5   -48  450.6    55  368.5    60   15.0   -74    0.0  -100            0
+
+===============================================================================================================================================================

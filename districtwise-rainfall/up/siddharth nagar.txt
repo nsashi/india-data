@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : SIDDHARTH NAGAR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004   2.0   -89                 0.0  -100   14.0    43   58.0    92  236.7    57  531.0    36  179.2   -43   67.2   -67   45.6   -33    0.0  -100        
+
+2005                                                                   24.4   -84  516.5    32  348.6    10  171.4   -16   35.7   -47    0.0  -100        
+
+2006                                                                  320.3   113  199.9   -49  259.7   -18  114.6   -44    1.0   -99                     
+
+2007                0.0  -100   25.2   119                41.0    34   75.8   -50  529.0    35  255.0   -20  206.3     1    0.0  -100                     
+
+2008                                                                  530.0   252  563.6    44  289.3    -9   92.0   -55   20.0   -70    0.0  -100        
+
+===============================================================================================================================================================

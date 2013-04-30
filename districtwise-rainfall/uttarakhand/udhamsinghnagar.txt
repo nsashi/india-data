@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : UDHAM SINGH NAGAR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007   9.0   -75  180.5   688  132.5   744    0.0  -100   71.0   123  245.0    57  522.7    25  793.0   104                16.0   -77                     
+
+2008                                                                               562.0    34                             70.0     3                     
+
+2009                                                                    0.0  -100  119.1   -72  201.3   -48  112.6   -46   67.0    -2    3.4   -11    1.6   -82
+
+2010   0.5   -99   42.4    85    0.0  -100    0.0  -100   90.0   182    7.0   -96  748.5    78  497.9    28  604.6   188    1.6   -98    0.1   -97    0.0  -100
+
+2011   8.9   -70   28.7    51    4.1   -74    6.3   -30   74.6   127  116.8   -21  517.7    28  699.3    91  209.9     3    0.0  -100    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

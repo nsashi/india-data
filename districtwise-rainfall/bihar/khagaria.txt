@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : KHAGARIA
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                       0.0  -100  205.8     7  562.1    83  200.1   -36  268.8    18   40.2   -53                     
+
+2008                                                                  336.4    74  362.0    18  401.9    28   84.3   -63   95.0    10                     
+
+2009                                                                   59.3   -69  214.3   -30  333.6     6  142.5   -38  142.8    66                 0.0  -100
+
+2010                                          5.0   -73   48.1     5  106.6   -45  132.2   -57  128.5   -59  167.4   -27   32.3   -62    0.0  -100    0.0  -100
+
+2011   0.0  -100    2.1   -50   20.7   169   19.3    25   81.1    75  250.6    36  197.9   -36  252.6   -15   88.4   -67    6.3   -92    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

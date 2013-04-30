@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : MONGHYR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                   55.4   -66  487.0    58  517.7    88  482.9   134   33.0   -61                     
+
+2008                                                                  264.3    64  586.9    90  434.4    57  190.7    -8   48.8   -43                     
+
+2009                                                                   68.7   -57  330.2     7  353.5    28  164.1   -20  302.7   255                     
+
+2010                             0.0  -100    0.0  -100               267.6    66  724.7   135  294.8     7  501.8   143  101.6    19    1.0   -78    0.2   -94
+
+2011   0.9   -93    1.8   -74   56.9   469   19.4    36   68.6    53   18.2   -89   56.5   -82  239.0   -12  132.0   -43   24.5   -66    0.0  -100    0.0  -100
+
+===============================================================================================================================================================

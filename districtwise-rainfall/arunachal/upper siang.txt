@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : UPPER SIANG
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004                                                                                                                                                      
+
+2005              216.3    88               322.2    18  142.7   -61                              0.0  -100  139.0   -77   92.7   -60    0.0  -100    0.0  -100
+
+2006                                                       0.0  -100               719.0   -19               784.7    29  323.0    39  124.7   153    0.0  -100
+
+2007  28.1   -48    0.0  -100   59.1   -68    0.0  -100               474.0   -37                 0.0  -100                              8.0   -84    3.0   -94
+
+2008                0.0  -100                 0.0  -100  113.7   -69                            357.5   -41  289.2   -53                              6.9   -85
+
+===============================================================================================================================================================

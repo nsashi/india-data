@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : BHOJPUR
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2007                                                                   60.0   -46  572.6    94  183.1   -33  223.0    -1   10.0   -81                     
+
+2008                                                                  191.3    72  405.4    37  246.5   -10  157.8   -30    0.0  -100                     
+
+2009                                                                   24.8   -78   87.3   -70  124.9   -54  160.8   -29    5.2   -90                     
+
+2010                                                                   22.8   -80  245.3   -17  119.0   -56  145.1   -36   39.1   -25                     
+
+2011           0            0    0.0  -100            0            0  186.6    72   33.9   -90  257.9    -7  166.4   -18    0.0  -100    0.0  -100            0
+
+===============================================================================================================================================================

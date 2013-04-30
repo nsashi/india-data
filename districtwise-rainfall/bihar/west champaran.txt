@@ -1,0 +1,29 @@
+                                                                       HYDROMET DIVISION
+                                                                INDIA METEOROLOGICAL DEPARTMENT
+                                                         DISTRICT RAINFALL (MM.) FOR LAST FIVE YEARS
+
+
+District : WEST CHAMPARAN
+
+
+Note : (1) The District Rainfall(mm.)(R/F) shown below are the arithmatic averages of Rainfall of Stations under the District.
+       (2) % Dep. are the Departures of rainfall from the long period averages of rainfall for the District.
+       (3) Blank Spaces show non-availability of Data.
+
+===============================================================================================================================================================
+YEAR   JANUARY      FEBRUARY      MARCH        APRIL         MAY          JUNE         JULY        AUGUST     SEPTEMBER     OCTOBER      NOVEMBER     DECEMBER
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+       R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.    R/F %DEP.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2004                0.0  -100    0.0  -100    0.0  -100    0.0  -100  106.1   -57  457.4     2  153.1   -60  211.1   -23   24.9   -65    7.8   179    0.0  -100
+
+2005               16.6    32                                          92.8   -62  306.1   -32  481.9    27   99.5   -64  117.1    63   50.4  1700    4.0   -43
+
+2006                                                       0.0  -100  259.7     5  437.5    -2  432.5    14  225.8   -17   26.7   -63                     
+
+2007               32.4   157                                          88.0   -64  793.6    77  492.7    29  847.8   210    0.0  -100                     
+
+2008                                                                  225.1    -9  508.6    14  458.1    20  154.8   -43   19.8   -73                     
+
+===============================================================================================================================================================
